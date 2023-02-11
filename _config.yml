@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "UnderCurve"
-  avatar           : "/assets/images/img2.pmg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/img2.png" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hello, I’m a young self-taught/still learning programmer. I mainly code in HTML, CSS, and JavaScript. But I do know a little bit about ExpressJS and Python. I also use the Minecraft coding plugin, Skript."
   location         : "United States"
   links:
