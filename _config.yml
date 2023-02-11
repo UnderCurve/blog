@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "UnderCurve"
   avatar : "/assets/images/img2.png"
-  bio    : "Hello, I'm a young self-taught/still learning programmer. I mainly code in HTML, CSS, and JavaScript. But I do know a little bit about ExpressJS and Python. I also use the Minecraft coding plugin called Skript."
+  bio    : "Hello, I'm a young self-taught/still learning programmer. I mainly code in HTML, CSS, and JavaScript. But I do know a little bit about ExpressJS and Python. I also use the Minecraft coding plugin, Skript."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -93,8 +93,8 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: false
-      comments: false
+      read_time: true
+      comments: true
       share: true
       related: false
   # _pages
