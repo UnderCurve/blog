@@ -108,7 +108,7 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/UnderCurve"
-    - label: "Twitch.Tv"
+    - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://twitch.tv/UnderCurve69"
 
@@ -124,7 +124,7 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/UnderCurve"
-    - label: "Twitch.Tv"
+    - label: "Twitch"
       icon: "fab fa-fw fa-twitch"
       url: "https://twitch.tv/UnderCurve69"
 
