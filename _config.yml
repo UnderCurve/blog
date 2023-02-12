@@ -110,7 +110,7 @@ author:
       url: "https://github.com/UnderCurve"
     - label: "Twitch.Tv"
       icon: "fab fa-fw fa-twitch"
-      # url: "https://twitch.tv/UnderCurve69"
+      url: "https://twitch.tv/UnderCurve69"
 
 # Site Footer
 footer:
@@ -126,7 +126,7 @@ footer:
       url: "https://github.com/UnderCurve"
     - label: "Twitch.Tv"
       icon: "fab fa-fw fa-twitch"
-      # url: "https://twitch.tv/UnderCurve69"
+      url: "https://twitch.tv/UnderCurve69"
 
 
 # Reading Files
